@@ -9,8 +9,8 @@ mon  idée de base:
 - ajouter un menu "marque" en bandeau qui propose un lien vers la page d'accueil de la marque choisie
   -stat et rapports spécifiques
 - page de configuration spécifique + lien en barre latérale dans config 
-  -nom marque
-  -logo spécifique
-  -coordonnées spécifique
-  -emails spécifique (envoi et réponse)
-  -marque par défaut
+  - nom marque
+  - logo spécifique
+  - coordonnées spécifique
+  - emails spécifique (envoi et réponse)
+  - marque par défaut
