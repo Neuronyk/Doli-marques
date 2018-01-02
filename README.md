@@ -14,3 +14,38 @@ mon  idée de base:
   - coordonnées spécifique
   - emails spécifique (envoi et réponse)
   - marque par défaut
+
+
+# Marques module for Dolibarr
+
+## What is it ?
+
+This module for Dolibarr 6.0 (maybe other, just try) add multi brand capabilities.
+
+You can :
+
+ * not a lot yet
+
+## Help improvements
+
+If you find the module is useful and want to finance improvements, consider giving me some money, few bitcoins would be perfect. 
+
+## How to install
+
+PHP 5.5 or greater is needed.
+
+Like all Dolibarr modules, _git clone_ this repository and install cdav directory in dolibarr/htdocs/
+
+Enable Marques module in Interfaces Modules list.
+
+## How to upgrade
+
+* Disable Marques module in Interfaces Modules list.
+* Unzip last version or _git pull_ in dolibarr/htdocs/cdav
+* Enable Marques module in Modules list.
+
+
+
+## Troubleshooting
+
+in case, desactivate the module
