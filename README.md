@@ -1,6 +1,8 @@
 # Doli-marques
 amorce d'un module multi-marque pour dolibarr 6 
 
+NE PAS UTILISER |  DO NOT USE | NOT WORKING | NE MARCHE PAS
+
 Dans dolibar,il manque la possibilité d'avoir une gestion spécifique lorsqu'une société possède plusieures marques, et qu'elle doivent séparer les facturations clients et rapports, sourcer le marketing, identifier rapidement dans les fiches clients/fournisseur quelle marque est en charge...
 
 mon  idée de base:
